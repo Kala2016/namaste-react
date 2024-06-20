@@ -96,4 +96,18 @@
     display: flex;
 }
 
+.user-card{
+    padding:10px;
+    border: 1px solid black;
 
+
+
+}
+
+.user-card button{
+
+    width: 120px;
+    height: 30px;
+    cursor: pointer;
+
+}
